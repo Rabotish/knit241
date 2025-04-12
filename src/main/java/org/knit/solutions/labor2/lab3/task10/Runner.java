@@ -1,4 +1,4 @@
-package org.knit.solutions.labor2.lab3;
+package org.knit.solutions.labor2.lab3.task10;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
