@@ -1,7 +1,7 @@
 package org.knit.solutions;
 
 import org.knit.TaskDescription;
-import org.knit.solutions.labor2.lab3.Runner;
+import org.knit.solutions.labor2.lab3.task10.Runner;
 
 import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.ExecutorService;
